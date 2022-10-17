@@ -1,6 +1,6 @@
 namespace MosPing.Api
 {
-    public class WeatherForecast
+    public class MosPingModel
     {
         public DateTime Date { get; set; }
 
